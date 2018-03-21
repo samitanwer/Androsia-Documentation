@@ -20,7 +20,7 @@ Users
 -----
 
 The quickest way to start using Androsia is by downloading the JAR file: 
-[Andros.jar](../../bin/Andros.jar) along with [AndroidCallbacks.txt](../../AndroidCallbacks.txt) and [SourcesAndSinks.txt](../../SourcesAndSinks.txt) files which are required by FlowDroid to create a callgraph. Place these two text files in the same directory as that of the JAR.
+[Andros.jar](../../bin/Andros.jar) along with [AndroidCallbacks.txt](AndroidCallbacks.txt) and [SourcesAndSinks.txt](../../SourcesAndSinks.txt) files which are required by FlowDroid to create a callgraph. Place these two text files in the same directory as that of the JAR.
 
 
 The JAR file takes three arguments:
