@@ -10,7 +10,7 @@ Androsia is a tool written in Java aimed at analysing Android applications to de
 
 ## Project Resources
 
-We recommend jumping into the quick start guide [quickstart.md](./quickstart.md) — you'll have a demo up and running in minutes.
+We recommend jumping into the quick start guide [quickstart.md](quickstart.md) — you'll have a demo up and running in minutes.
 
 ## Authors
 
