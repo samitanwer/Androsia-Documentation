@@ -2,7 +2,10 @@
 # Quickstart
 
 
-This is the reference quickstart guide for users and developers, which is designed to get you up and running in minutes. Please watch this space for updates/links to build and source (coming soon). Request you to follow my twitter handle **samitanwer1** for announcements regarding the same  
+This is the reference quickstart guide for users and developers, which is designed to get you up and running in minutes. Please watch this space for updates/links to build and source (coming soon). 
+
+Want to remain in sync with whatsup with Androsia? 
+Follow my twitter handle **samitanwer1** for announcements!  
 
 
 Dependencies
